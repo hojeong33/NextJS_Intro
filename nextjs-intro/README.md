@@ -29,3 +29,7 @@
 #### public 폴더
 
 #### href="/xxx.png" ...할 필요없음
+
+#### server side rendering
+
+#### getServerSideProps 이름 변경 불가!@!!!!
