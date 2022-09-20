@@ -33,3 +33,7 @@
 #### server side rendering
 
 #### getServerSideProps 이름 변경 불가!@!!!!
+
+#### react.js의 처리가 완료될때까지 기다려야 하고 유저가 로딩중 단계를 보고 있다. 하지만 유저가 볼때 모든 데이터를 가지고 있느 html 페이지일 경우 로딩중을 안봐도 됨 (getserversideprops 사용)
+
+#### dynamic routes 변수를 포함하는 url
